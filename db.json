@@ -125,7 +125,7 @@
           "id": 14,
           "customer_id": 9,
           "date": "2022-01-01",
-          "amount": 1200
+          "amount": 2100
       },
       {
           "id": 15,
@@ -149,7 +149,7 @@
           "id": 18,
           "customer_id": 9,
           "date": "2022-01-02",
-          "amount": 2100
+          "amount": 1200
       }
   ]
 }
